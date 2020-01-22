@@ -1,0 +1,16 @@
+{
+    "name": "SunriseClick Online Shopping Cart",
+    "authors": [
+        {
+            "name": "Suresh M",
+            "email": "suri.bca2009@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": ["config/utilities.php"],
+        "classmap": ["src/"]
+    },
+    "require": {
+        "php": "7.2.12"		
+    }
+}
