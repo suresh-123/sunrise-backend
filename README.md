@@ -13,7 +13,7 @@
 ### Setup Project
 
 1. Download as .zip or clone this repository using below links,  
-	GitHub URL    : https://github.com/suresh-123/sunrise-backend
+    GitHub URL    : https://github.com/suresh-123/sunrise-backend <br/>
     Git Clone URL : `git clone https://github.com/suresh-123/sunrise-backend.git`  
 2. Import the `data/sunriseclick.sql` file to phpMyAdmin
 3. Install composer  
